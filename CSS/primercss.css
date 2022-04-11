@@ -1,0 +1,16 @@
+h1{
+    color: black;
+}
+.ola{
+    color: aqua;
+}
+#juas:hover{
+    color: yellowgreen;
+}
+[miatributo="nuevo"]{
+    color: darkmagenta;
+}
+h2 p{
+    color: coral;
+    font-size: 4    em;
+}
